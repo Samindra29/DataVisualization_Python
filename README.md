@@ -1,4 +1,4 @@
-# DataVisualization_Python
+# DataVisualization with Matplotlib & Seaborn
 Data Visualisation using Matplotlib &amp; Seaborn
 
 Tasks accomplished: 
